@@ -1,0 +1,23 @@
+[
+{
+   "firstName": "Manish",
+   "lastName": "Bisht",
+   "gender": "male",
+   "age": 25,
+   "address":"UK" 
+   },
+{
+ "firstName": "Prateek",
+   "lastName": "Arora",
+   "gender": "male",
+   "age": 27,
+   "address":"Mumbai"
+   },
+{
+"firstName": "Jai",
+   "lastName": "Singh",
+   "gender": "male",
+   "age": 23,
+   "address":"Noida"   
+   }
+ ]
